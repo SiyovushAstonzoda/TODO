@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFFsCY8CaCsK8uJXWggnGnN6UVMF66uTBz2hjj2anCf1lGUuh93i1LhTOs+N9JsexxCoPM80Q7Atu6rsmGVTdA==",
+  "success": true,
+  "projectFilePath": "D:\\Soft-Club\\API\\APIProjects\\Practice\\TODO List Demo App\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aston\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.1.22426.10\\microsoft.extensions.primitives.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
